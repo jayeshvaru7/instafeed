@@ -1,6 +1,6 @@
 # instafeed
 
-![instagram](https://cloud.githubusercontent.com/assets/499192/11020990/f0f31dea-8632-11e5-95b1-77e72c7ba271.png)
+![instagram](https://user-images.githubusercontent.com/42133180/43707781-72e2277e-9986-11e8-8ffc-9030ba31e715.jpg)
 
 > An easy-to-use and simple [Instagram](https://www.instagram.com/) package.
 
