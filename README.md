@@ -26,7 +26,7 @@ Instagram is decoupled from any library sending HTTP requests (like Guzzle), ins
 Read more about the benefits of this and about what different HTTP clients you may use in the [HTTPlug documentation](http://docs.php-http.org/en/latest/httplug/users.html). Below is an example using [Guzzle 6](http://docs.guzzlephp.org/en/latest/index.html):
 
 ```bash
-$ composer require jvaru/instafeed php-http/message php-http/guzzle6-adapter
+$ composer require jvaru/instagram php-http/message php-http/guzzle6-adapter
 ```
 
 ## Usage
