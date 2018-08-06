@@ -1,6 +1,6 @@
 <?php 
 
-namespace Jvaru\Instagram;
+namespace Instagram;
 
 use Illuminate\Support\ServiceProvider;
  

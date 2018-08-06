@@ -1,6 +1,6 @@
 <?php
 
-$namespace = 'Jvaru\Instagram\Http\Controllers';
+$namespace = 'Instagram\Http\Controllers';
 
 Route::group([
     'namespace' => $namespace,

@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Jvaru\Instagram;
+namespace Instagram;
 
 use Http\Client\HttpClient;
 use Http\Discovery\HttpClientDiscovery;
